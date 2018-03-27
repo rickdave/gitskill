@@ -1,2 +1,2 @@
 import os
-print 'this a from internet
+print 'this a from internet'
